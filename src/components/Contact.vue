@@ -7,7 +7,22 @@
       </h3>
     </div>
     <div class="w-full py-10">
+      <div class="w-auto shadow-lg p-6 rounded">
+        <h4 class="text-left text-lg mb-6">Subscribe to the newsletter</h4>
+        <mail-signup-form></mail-signup-form>
+      </div>
     </div>
   </div>
- </div>
- </template>
+</div>
+</template>
+
+<script>
+import MailSignupForm from './MailSignupForm.vue'
+
+export default {
+  name: 'Contact',
+  components: {
+    MailSignupForm,
+  }
+}
+</script>

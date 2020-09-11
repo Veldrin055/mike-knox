@@ -7,15 +7,15 @@
       </h3>
     </div>
     <div class="w-full py-10">
-      <div class="md:flex bg-white rounded-lg p-6 mb-6 shadow">
+      <div class="md:flex bg-white rounded-lg p-6 mb-6 shadow-lg">
         <!-- todo image -->
         <div class="text-center md:text-left">
-          <h2 class="text-lg">Support Community</h2>
+          <h2 class="text-2xl">Support Community</h2>
           <div class="text-gray-600">Words</div>
         </div>
       </div>
 
-      <div class="md:flex bg-white rounded-lg p-6 mb-6 shadow">
+      <div class="md:flex bg-white rounded-lg p-6 mb-6 shadow-lg">
         <!-- todo image -->
         <div class="text-center md:text-left">
           <h2 class="text-2xl">Nurture the Environment</h2>
@@ -23,10 +23,10 @@
         </div>
       </div>
 
-      <div class="md:flex bg-white rounded-lg p-6 mb-6 shadow">
+      <div class="md:flex bg-white rounded-lg p-6 mb-6 shadow-lg">
         <!-- todo image -->
         <div class="text-center md:text-left">
-          <h2 class="text-lg">Ensure Wellbeing</h2>
+          <h2 class="text-2xl">Ensure Wellbeing</h2>
           <div class="text-gray-600">Words</div>
         </div>
       </div>

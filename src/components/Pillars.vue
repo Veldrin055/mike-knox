@@ -8,7 +8,7 @@
     </div>
     <div class="w-full py-10">
 
-      <div class="md:flex bg-white rounded-lg p-6 mb-6 shadow">
+      <div class="md:flex bg-white rounded-lg p-6 mb-6 shadow-lg">
         <!-- todo image -->
         <div class="text-center md:text-left">
           <h2 class="md:text-2xl text-xl mb-1">Ensure Wellbeing</h2>
@@ -17,7 +17,7 @@
         </div>
       </div>
 
-      <div class="md:flex bg-white rounded-lg p-6 mb-6 shadow">
+      <div class="md:flex bg-white rounded-lg p-6 mb-6 shadow-lg">
         <!-- todo image -->
         <div class="text-center md:text-left">
           <h2 class="text-2xl mb-1">Assistance</h2>
@@ -26,7 +26,7 @@
         </div>
       </div>
 
-      <div class="md:flex bg-white rounded-lg p-6 mb-6 shadow">
+      <div class="md:flex bg-white rounded-lg p-6 mb-6 shadow-lg">
         <!-- todo image -->
         <div class="text-center md:text-left">
           <h2 class="text-2xl mb-1">Community</h2>
@@ -35,7 +35,7 @@
         </div>
       </div>
 
-      <div class="md:flex bg-white rounded-lg p-6 mb-6 shadow">
+      <div class="md:flex bg-white rounded-lg p-6 mb-6 shadow-lg">
         <!-- todo image -->
         <div class="text-center md:text-left">
           <h2 class="text-2xl mb-1">Integrate with the Wider Community</h2>
@@ -44,7 +44,7 @@
         </div>
       </div>
 
-      <div class="md:flex bg-white rounded-lg p-6 mb-6 shadow">
+      <div class="md:flex bg-white rounded-lg p-6 mb-6 shadow-lg">
         <!-- todo image -->
         <div class="text-center md:text-left">
           <h2 class="text-2xl mb-1">Development in the Community</h2>
