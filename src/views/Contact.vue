@@ -17,7 +17,7 @@
 </template>
 
 <script>
-import MailSignupForm from './MailSignupForm.vue'
+import MailSignupForm from '../components/MailSignupForm.vue'
 
 export default {
   name: 'Contact',

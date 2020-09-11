@@ -5,11 +5,11 @@ import { setupFontAwesome } from './components/FontAwesome'
 
 import './assets/styles/index.css'
 
-import Home from './components/Home.vue'
-import About from './components/About.vue'
-import Principles from './components/Principles.vue'
-import Pillars from './components/Pillars.vue'
-import Contact from './components/Contact.vue'
+import Home from './views/Home.vue'
+import About from './views/About.vue'
+import Principles from './views/Principles.vue'
+import Pillars from './views/Pillars.vue'
+import Contact from './views/Contact.vue'
 
 Vue.config.productionTip = false
 
