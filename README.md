@@ -20,5 +20,8 @@ npm run build
 npm run lint
 ```
 
+### Styling
+CSS is provided by [Tailwind](https://tailwindcss.com). 
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -1,7 +1,7 @@
 <template>
-  <div id="app" class="flex flex-col h-screen justify-between">
+  <div id="app" class="flex flex-col h-screen min-h-screen justify-between">
     <Nav></Nav>
-    <main class="mb-auto">
+    <main class="flex-grow">
       <router-view></router-view>
     </main>
     <Footer></Footer>
@@ -17,7 +17,7 @@ export default {
   components: {
     Nav,
     Footer,
-  }
+  },
 }
 </script>
 

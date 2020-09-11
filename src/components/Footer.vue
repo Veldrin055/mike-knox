@@ -1,7 +1,7 @@
 <template>
-  <footer class="flex flex-col bg-gray-900 text-gray-500 text-sm">
+  <footer class="w-full bottom-0 flex flex-col bg-gray-900 text-gray-500 text-sm fixed">
+    <span>Authorised by Tomas Cifuentes, 2 Francis Cres, Ferntree Gully</span>
     <span>Copyright 2020 Michael Koclega</span>
-    <span>Authorised by Michael Koclega, my statement</span>
-    <font-awesome-icon :icon="['fab', 'instagram']" />
+    <!-- <font-awesome-icon :icon="['fab', 'instagram']" /> -->
   </footer>
 </template>
