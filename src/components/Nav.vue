@@ -1,5 +1,5 @@
 <template>
-<nav class="relative select-none bg-purple-900 text-gray-100 lg:flex lg:items-stretch w-full">
+<nav class="relative select-none bg-purple-900 text-gray-100 lg:flex lg:items-stretch w-full z-20">
   <div class="flex flex-no-shrink items-stretch h-12">
     <router-link to="/" class="flex-no-grow flex-no-shrink relative py-2 px-4 text-lg leading-normal text-white font-extrabold no-underline flex items-center hover:bg-grey-dark">Mike for Knox</router-link>
     <button @click="toggleMenu" class="block lg:hidden cursor-pointer ml-auto relative w-12 h-12 p-4">

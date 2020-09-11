@@ -1,7 +1,10 @@
 <template>
 <div class="h-full purple-grad">
   <div class="container mx-auto px-6 flex flex-col items-center justify-center">
-    <div class="my-6 w-1/3">
+  <div class="fixed overflow-hidden z-0 pos">
+    <font-awesome-icon class="spinny opacity-75" :icon="['fas', 'bahai']" />
+  </div>
+    <div class="my-6 w-1/3 z-10">
       <img class="object-contain shadow-lg" src="/assets/img/primary.jpg" />
     </div>
     <div class="mx-2 mt-3 md:mt-12 w-1/2 text-center border-b-2 border-t-2 border-purple-300">
@@ -9,7 +12,7 @@
         Mike
       </h1>
       <h2 class="text-gray-200 text-xl md:text-5xl leading-tight mt-4 md:mt-12">
-      Wise Choice for Knox
+      The Wise Choice for Knox
       </h2>
     </div>
   </div>
@@ -19,5 +22,27 @@
 <style>
 .purple-grad {
   background-image: linear-gradient(to right, rgb(173, 166, 174), rgb(119, 143, 171));
+}
+
+.spinny {
+  animation: spinner 40s linear infinite;
+  font-size: 2000px;
+  opacity: 5%;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.pos {
+  left: -900px;
+  bottom: -900px;
+}
+
+@keyframes spinner {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
 </style>
