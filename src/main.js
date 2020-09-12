@@ -8,7 +8,6 @@ import './assets/styles/index.css'
 import Home from './views/Home.vue'
 import About from './views/About.vue'
 import Principles from './views/Principles.vue'
-import Pillars from './views/Pillars.vue'
 import Contact from './views/Contact.vue'
 
 Vue.config.productionTip = false
@@ -17,7 +16,6 @@ const routes = [
   { path: '/', component: Home },
   { path: '/about', component: About },
   { path: '/principles', component: Principles },
-  { path: '/pillars', component: Pillars },
   { path: '/contact', component: Contact },
 ]
 

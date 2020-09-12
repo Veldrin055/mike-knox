@@ -12,7 +12,6 @@
       <nav-link to="/">Home</nav-link>
       <nav-link to="/about">About Me</nav-link>
       <nav-link to="/principles">My Principles</nav-link>
-      <nav-link to="/pillars">My Pillars</nav-link>
       <nav-link to="/contact">Contact</nav-link>
     </div>
   </div>

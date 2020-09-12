@@ -1,9 +1,9 @@
 import { library } from '@fortawesome/fontawesome-svg-core'
-import { faInstagram } from '@fortawesome/free-brands-svg-icons'
-import { faBahai } from '@fortawesome/free-solid-svg-icons'
+import { faInstagram, faPagelines, faLinkedin, faFacebook } from '@fortawesome/free-brands-svg-icons'
+import { faHeart, faUsers } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
 export const setupFontAwesome = (vue) => {
-  library.add(faInstagram, faBahai)
+  library.add(faInstagram, faHeart, faUsers, faPagelines, faLinkedin, faFacebook)
   vue.component('font-awesome-icon', FontAwesomeIcon)
 }
