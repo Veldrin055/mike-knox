@@ -46,7 +46,7 @@
           <div class="text-gray-700 text-justify mt-6">
             <ul class="list-disc">
               <li class="py-2"><strong>Helping</strong> the financially vulnerable community members with sensible and fair council rate adjustments, discounts and deferments.</li>
-              <li class="py-2"><strong>Supporting</strong> decisions and policies that will increase mental health awareness, education and resources for the community.</li>
+              <li class="py-2">Supporting decisions and policies that will <strong>increase mental health awareness</strong>, education and resources for the community.</li>
               <li class="py-2">Support decisions and policies that allow the <strong>elders of our community to flourish.</strong></li>
               <li class="py-2">Local <strong>health and education</strong> services need to be universally accessible, affordable, and meet the needs of our most disadvantaged community members.</li>
             </ul>
