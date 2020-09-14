@@ -7,7 +7,7 @@
       <svg v-show="expanded" class="fill-current text-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 8.586L2.929 1.515 1.515 2.929 8.586 10l-7.071 7.071 1.414 1.414L10 11.414l7.071 7.071 1.414-1.414L11.414 10l7.071-7.071-1.414-1.414L10 8.586z"/></svg>
     </button>
   </div>
-  <div class="lg:flex lg:items-stretch lg:flex-no-shrink lg:flex-grow" :class="{hidden: !expanded}">
+  <div class="lg:flex lg:items-stretch lg:flex-no-shrink lg:flex-grow border-b-2 border-purple-500 md:border-b-0" :class="{hidden: !expanded}">
     <div class="lg:flex lg:items-stretch lg:justify-end ml-auto">
       <nav-link to="/">Home</nav-link>
       <nav-link to="/about">About Me</nav-link>
