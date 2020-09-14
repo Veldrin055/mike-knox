@@ -28,7 +28,7 @@
         <div><font-awesome-icon class="text-4xl text-purple-900 mx-auto md:mx-4" :icon="['fab', 'pagelines']" /></div>
         <div class="text-center md:text-left">
           <h2 class="text-2xl border-b-2 border-purple-500">Nurture the Environment</h2>
-          <div class="text-gray-700 text-justify mt-6">
+          <div class="text-gray-700 text-left mt-6">
             <ul class="list-disc">
               <li class="py-2"><strong>Protecting</strong> the hillside skyline and communities connection to the Dandenong's National Park from over-development.</li>
               <li class="py-2"><strong>Promoting alternative transportation</strong> modes by increasing accessibility to public transport and building and maintenance of bike paths.</li>
@@ -43,7 +43,7 @@
         <div><font-awesome-icon class="text-4xl text-purple-900 mx-auto md:mx-4" :icon="['fas', 'heart']" /></div>
         <div class="text-center md:text-left">
           <h2 class="text-2xl border-b-2 border-purple-500">Ensure Wellbeing</h2>
-          <div class="text-gray-700 text-justify mt-6">
+          <div class="text-gray-700 text-left mt-6">
             <ul class="list-disc">
               <li class="py-2"><strong>Helping</strong> the financially vulnerable community members with sensible and fair council rate adjustments, discounts and deferments.</li>
               <li class="py-2">Supporting decisions and policies that will <strong>increase mental health awareness</strong>, education and resources for the community.</li>
