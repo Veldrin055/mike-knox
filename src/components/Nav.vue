@@ -35,15 +35,9 @@ export default {
     },
   },
   watch: {
-    '$route' () {
+    '$route'() {
       this.expanded = false
     }
   }
 }
 </script>
-
-<style>
-.active {
-  display: block;
-}
-</style>
