@@ -45,7 +45,7 @@
     <div class="md:flex md:items-center">
       <div class="md:w-1/3"></div>
       <div class="md:w-2/3">
-        <button class="shadow bg-purple-900 hover:bg-purple-500 focus:shadow-outline focus:outline-none text-white py-2 px-4 rounded" type="submit">
+        <button class="font-semibold bg-purple-900 hover:bg-purple-600 focus:shadow-outline focus:outline-none text-white py-2 px-4 rounded" type="submit">
           Subscribe
         </button>
       </div>

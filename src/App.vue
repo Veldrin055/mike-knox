@@ -2,7 +2,10 @@
   <div id="app" class="flex flex-col h-screen min-h-screen justify-between">
     <Nav></Nav>
     <main class="flex-grow">
-      <router-view></router-view>
+      <Home/>
+      <About/>
+      <Principles/>
+      <Contact/>
     </main>
     <Footer></Footer>
   </div>
@@ -12,11 +15,20 @@
 import Nav from './components/Nav.vue'
 import Footer from './components/Footer.vue'
 
+import Home from './views/Home.vue'
+import About from './views/About.vue'
+import Principles from './views/Principles.vue'
+import Contact from './views/Contact.vue'
+
 export default {
   name: 'App',
   components: {
     Nav,
     Footer,
+    Home,
+    About,
+    Principles,
+    Contact
   },
 }
 </script>
