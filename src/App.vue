@@ -2,10 +2,10 @@
   <div id="app" class="flex flex-col h-screen min-h-screen justify-between">
     <Nav></Nav>
     <main class="flex-grow">
-      <Home/>
-      <About/>
-      <Principles/>
-      <Contact/>
+      <Home id="home"></Home>
+      <About id="about"></About>
+      <Principles id="principles"></Principles>
+      <Contact id="contact"></Contact>
     </main>
     <Footer></Footer>
   </div>

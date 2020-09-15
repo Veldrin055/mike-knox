@@ -1,5 +1,5 @@
 <template>
-<div class="h-screen md:py-12 purple-grad">
+<div class="h-screen py-8 md:py-12 purple-grad">
   <div class="container mx-auto px-6 flex flex-col items-center justify-center">
     <div class="my-6 w-1/2 md:w-1/3 z-10">
       <img class="object-contain shadow-lg" src="/assets/img/primary.jpg" />
