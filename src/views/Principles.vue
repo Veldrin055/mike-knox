@@ -15,7 +15,7 @@
             <ul class="list-disc">
               <li class="py-2"><strong>Freeze rates</strong> and help the financially vulnerable with fair rate discounts and deferments</li>
               <li class="py-2">Town planning and development must <strong>respect the communities wishes</strong></li>
-              <li class="py-2">Create more affordable housing options by making <strong>Knox Tiny-house friendly<strong></li>
+              <li class="py-2">Create more affordable housing options by making <strong>Knox Tiny-house friendly</strong></li>
               <li class="py-2">Increase transparency with <strong>quaterly ward meetings</strong> and adoption of Blockchain governance technology</li>
               <li class="py-2">Stimulate the local economy by ensuring <strong>council procurement prioritises local small business</strong> and startups</li>
               <li class="py-2"><strong>Create jobs</strong> by establishing startup incubators and grants especially for innovation involving Permaculture, High-Tech Manufacturing, Creative Design and Blockchain technologies</li>
@@ -33,7 +33,7 @@
           <div class="text-gray-700 text-left mt-6">
             <ul class="list-disc">
               <li class="py-2"><strong>Protecting</strong> the foothills skyline and communities connection to the Dandenong's National Park from over-development</li>
-              <li class="py-2"><strong>Make Knox a leader in Permacultur adoption by <strong>establishing a Permaculture committee</strong> and creating a Permaculture adoption roadmap in the next council plan</li>
+              <li class="py-2">Make Knox a leader in Permacultur adoption by <strong>establishing a Permaculture committee</strong> and creating a Permaculture adoption roadmap in the next council plan</li>
               <li class="py-2"><strong>Invest in resources and practices</strong> that reduce overheads to community and the environment</li>
             </ul>
           </div>
