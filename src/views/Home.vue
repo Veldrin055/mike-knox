@@ -1,16 +1,8 @@
 <template>
 <div class="h-screen py-8 md:py-12 purple-grad">
   <div class="container mx-auto px-6 flex flex-col items-center justify-center">
-    <div class="my-6 w-1/2 md:w-1/3 z-10">
-      <img class="object-contain shadow-lg" src="/assets/img/primary.jpg" />
-    </div>
-    <div class="mx-2 mt-2 md:mt-24 md:w-1/2 text-center border-b-2 border-t-2 border-purple-300 z-10">
-      <h1 class="text-gray-100 font-extrabold text-4xl xs:text-5xl md:text-6xl">
-        Mike
-      </h1>
-      <h2 class="text-gray-200 text-xl md:text-5xl leading-tight mt-2 md:mt-8 mb-2">
-      Serving the Community
-      </h2>
+    <div class="my-8 w-10/12 flex flex-col items-center z-10">
+      <img class="h-full shadow-lg" src="/assets/img/candidate.jpeg" />
     </div>
   </div>
 </div>
