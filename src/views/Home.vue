@@ -1,9 +1,7 @@
 <template>
 <div class="h-screen py-8 md:py-12 purple-grad">
-  <div class="container mx-auto px-6 flex flex-col items-center justify-center">
-    <div class="my-8 w-10/12 flex flex-col items-center z-10">
-      <img class="h-full shadow-lg" src="/assets/img/candidate.jpeg" />
-    </div>
+  <div class="my-6 container mx-auto px-6 flex flex-col items-center justify-center">
+    <img class="object-cover shadow-lg" src="/assets/img/candidate.jpeg" />
   </div>
 </div>
 </template>
