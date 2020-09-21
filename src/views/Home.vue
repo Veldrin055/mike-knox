@@ -1,13 +1,13 @@
 <template>
 <div class="h-screen py-8 md:py-12 purple-grad">
-  <div class="my-6 container max-h-full mx-auto px-6 flex flex-col items-center justify-center">
-    <img class="object-contain shadow-lg md:pb-8" src="/assets/img/candidate.jpg" />
+  <div class="m-auto container h-full max-h-full px-6 flex flex-col md:items-center">
+    <img class="object-contain shadow-lg m-auto md:my-8" src="/assets/img/candidate.jpg" />
   </div>
 </div>
 </template>
 
 <style>
 .purple-grad {
-  background-image: linear-gradient(to right, rgb(173, 166, 174), rgb(119, 143, 171));
+  background-image: linear-gradient(to bottom, rgb(175, 174, 179), rgb(228, 217, 197));
 }
 </style>
