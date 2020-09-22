@@ -9,5 +9,7 @@
 <style>
 .purple-grad {
   background-image: linear-gradient(to bottom, rgb(175, 174, 179), rgb(228, 217, 197));
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 96%, 0 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 96%, 0 100%);
 }
 </style>

@@ -1,6 +1,6 @@
 <template>
-<div class="bg-fixed object-cover bg-image">
-  <div class="container m-auto px-6 p-10 flex flex-wrap">
+<div class="bg-fixed object-cover bg-image clip">
+  <div class="container m-auto px-6 py-12 flex flex-wrap">
     <div class="mx-2 text-left border-b-2 border-purple-300">
       <h3 class="text-gray-600 font-extrabold text-4xl xs:text-5xl md:text-6xl">
         My Principles
@@ -55,8 +55,8 @@
         </div>
       </div>
     </div>
+    <div class="w-full text-xs position-bottom-0 text-left text-gray-800 text-opacity-25 break-words">Andrew Amos (https://commons.wikimedia.org/wiki/File:Mt_Dandenong_from_Mooroolbark.jpg), „Mt Dandenong from Mooroolbark“, https://creativecommons.org/licenses/by-sa/3.0/legalcode</div>
   </div>
-    <div class="w-full text-xs position-bottom-0 text-left text-gray-800 text-opacity-25 mb-2 break-words">Andrew Amos (https://commons.wikimedia.org/wiki/File:Mt_Dandenong_from_Mooroolbark.jpg), „Mt Dandenong from Mooroolbark“, https://creativecommons.org/licenses/by-sa/3.0/legalcode</div>
 </div>
 </template>
 
@@ -65,5 +65,17 @@
   background-image: url('/assets/img/principles-bg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.clip {
+    -webkit-clip-path: polygon(0 0, 100% 1%, 100% 99%, 0% 100%);
+    clip-path: polygon(0 0, 100% 1%, 100% 99%, 0% 100%);
+  }
+
+@media (min-width: 43em) {
+  .clip {
+    -webkit-clip-path: polygon(0 0, 100% 1%, 100% 99%, 0% 100%);
+    clip-path: polygon(0 0, 100% 5%, 100% 97%, 0% 100%);
+  }
 }
 </style>
