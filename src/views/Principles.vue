@@ -1,5 +1,5 @@
 <template>
-<div>
+<div class="bg-fixed object-cover bg-image">
   <div class="container m-auto px-6 p-10 flex flex-wrap">
     <div class="mx-2 text-left border-b-2 border-purple-300">
       <h3 class="text-gray-600 font-extrabold text-4xl xs:text-5xl md:text-6xl">
@@ -58,3 +58,11 @@
   </div>
 </div>
 </template>
+
+<style>
+.bg-image {
+  background-image: url('/assets/img/principles-bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
