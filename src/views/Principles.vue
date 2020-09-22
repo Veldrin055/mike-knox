@@ -56,6 +56,7 @@
       </div>
     </div>
   </div>
+    <div class="text-xs position-bottom-0 text-left text-gray-800 text-opacity-25 mb-2">Andrew Amos (https://commons.wikimedia.org/wiki/File:Mt_Dandenong_from_Mooroolbark.jpg), „Mt Dandenong from Mooroolbark“, https://creativecommons.org/licenses/by-sa/3.0/legalcode</div>
 </div>
 </template>
 
