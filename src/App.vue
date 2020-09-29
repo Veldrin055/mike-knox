@@ -4,6 +4,7 @@
     <main class="flex-grow">
       <Home id="home"></Home>
       <About id="about"></About>
+      <Media id="media"></Media>
       <Principles id="principles"></Principles>
       <Contact id="contact"></Contact>
     </main>
@@ -19,6 +20,7 @@ import Home from './views/Home.vue'
 import About from './views/About.vue'
 import Principles from './views/Principles.vue'
 import Contact from './views/Contact.vue'
+import Media from './views/Media.vue'
 
 export default {
   name: 'App',
@@ -28,7 +30,8 @@ export default {
     Home,
     About,
     Principles,
-    Contact
+    Contact,
+    Media,
   },
 }
 </script>
