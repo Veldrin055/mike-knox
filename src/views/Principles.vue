@@ -34,7 +34,7 @@
           <div class="text-gray-700 text-left mt-6">
             <ul class="list-disc">
               <li class="py-2"><strong>Protect the foothills skyline</strong> and communities connection to the Dandenong's National Park from over-development</li>
-              <li class="py-2"><strong>Protect Lake Knox</strong> by challenging Development Victoria’s development proposal</li>
+              <li class="py-2"><strong>Protect Lake Knox</strong> by challenging Development Victoria’s development plans</li>
               <li class="py-2">Make Knox a leader in Permaculture adoption by <strong>establishing a Permaculture committee</strong> and creating a Permaculture adoption roadmap in the next council five year plan</li>
               <li class="py-2"><strong>Rebalance engagement</strong> between council and environment advocacy groups</li>
             </ul>
