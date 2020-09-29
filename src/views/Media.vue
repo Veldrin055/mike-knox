@@ -6,7 +6,18 @@
     </h3>
   </div>
   <div class="w-full text-justify text-gray-700 py-6 px-4 md:text-lg">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/X-g-nBC4lMI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <EmbeddedVideo link="https://www.youtube.com/embed/X-g-nBC4lMI"></EmbeddedVideo>
   </div>
 </div>
 </template>
+
+<script>
+import EmbeddedVideo from '../components/EmbeddedVideo.vue'
+
+export default {
+  name: 'Media',
+  components: {
+    EmbeddedVideo,
+  }
+}
+</script>

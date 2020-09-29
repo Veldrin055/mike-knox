@@ -4,8 +4,8 @@
     <main class="flex-grow">
       <Home id="home"></Home>
       <About id="about"></About>
-      <Principles id="principles"></Principles>
       <Media id="media"></Media>
+      <Principles id="principles"></Principles>
       <Contact id="contact"></Contact>
     </main>
     <Footer></Footer>

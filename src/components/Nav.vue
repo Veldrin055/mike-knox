@@ -11,8 +11,8 @@
     <div class="lg:flex lg:items-stretch lg:justify-end ml-auto">
       <nav-link to="home" :onStart="close">Home</nav-link>
       <nav-link to="about" :onStart="close">About Me</nav-link>
-      <nav-link to="principles" :onStart="close">My Principles</nav-link>
       <nav-link to="media" :onStart="close">Media</nav-link>
+      <nav-link to="principles" :onStart="close">My Principles</nav-link>
       <nav-link to="contact" :onStart="close">Contact</nav-link>
     </div>
   </div>
