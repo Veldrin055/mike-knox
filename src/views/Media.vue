@@ -7,6 +7,7 @@
   </div>
   <div class="w-full text-justify text-gray-700 py-6 px-4 md:text-lg">
     <EmbeddedVideo link="https://www.youtube.com/embed/X-g-nBC4lMI"></EmbeddedVideo>
+    <EmbeddedVideo link="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmeettheknoxcandidates%2Fvideos%2F3122086607913730%2F"></EmbeddedVideo>
   </div>
 </div>
 </template>

@@ -19,7 +19,11 @@
         </a>
         <a class="w-full flex items-center m-2" href="https://www.instagram.com/mike4knox/" target="_blank">
           <font-awesome-icon class="text-purple-900" :icon="['fab', 'instagram']" />
-          <span class="text-base px-4">Instagram</span>
+          <span class="text-base px-6">Instagram</span>
+        </a>
+        <a class="w-full flex items-center m-2" href="https://www.youtube.com/channel/UCJW5qT2Ik2SjQ1_2dDcAo_A" target="_blank">
+          <font-awesome-icon class="text-purple-900" :icon="['fab', 'youtube']" />
+          <span class="text-base px-4">YouTube</span>
         </a>
       </div>
     </div>
