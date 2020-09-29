@@ -1,5 +1,5 @@
 <template>
-  <div class="videowrapper">
+  <div class="videowrapper my-6 md:my-12">
     <iframe :src="link" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </template>
