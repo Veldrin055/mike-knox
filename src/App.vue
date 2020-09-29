@@ -5,6 +5,7 @@
       <Home id="home"></Home>
       <About id="about"></About>
       <Principles id="principles"></Principles>
+      <Media id="media"></Media>
       <Contact id="contact"></Contact>
     </main>
     <Footer></Footer>
@@ -19,6 +20,7 @@ import Home from './views/Home.vue'
 import About from './views/About.vue'
 import Principles from './views/Principles.vue'
 import Contact from './views/Contact.vue'
+import Media from './views/Media.vue'
 
 export default {
   name: 'App',
@@ -28,7 +30,8 @@ export default {
     Home,
     About,
     Principles,
-    Contact
+    Contact,
+    Media,
   },
 }
 </script>
