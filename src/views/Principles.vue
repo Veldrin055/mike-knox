@@ -15,7 +15,7 @@
             <ul class="list-disc">
               <li class="py-2"><strong>Fully Independent - No political party membership</strong></li>
               <li class="py-2"><strong>Freeze rates in FY21/22</strong> and continue to help the financially vulnerable with fair rate discounts and deferments</li>
-              <li class="py-2">Town planning and development must <strong>respect the communities wishes</strong></li>
+              <li class="py-2">Town planning and development must <strong>respect the communities wishes</strong>, with <strong>strict enforcement of the Foothills policy</strong></li>
               <li class="py-2">Create more affordable housing options by making <strong>Knox Tiny-house friendly</strong></li>
               <li class="py-2">Increase transparency with <strong>increased community engagement</strong> and adoption of Blockchain governance technology</li>
               <li class="py-2">Stimulate the local economy by ensuring <strong>council procurement prioritises local small business</strong> and startups</li>
