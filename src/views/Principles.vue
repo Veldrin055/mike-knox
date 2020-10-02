@@ -1,7 +1,7 @@
 <template>
 <div class="bg-fixed object-cover bg-image clip">
   <div class="container m-auto px-6 py-12 flex flex-wrap">
-    <div class="mx-2 text-left border-b-2 border-purple-300">
+    <div class="mx-2 mt-12 text-left border-b-2 border-purple-300 ">
       <h3 class="text-gray-600 font-extrabold text-4xl xs:text-5xl md:text-6xl">
         My Principles
       </h3>
