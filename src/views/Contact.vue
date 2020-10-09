@@ -1,5 +1,5 @@
 <template>
-<div class="container m-auto px-6 p-10 flex flex-col md:h-screen justify-center">
+<div class="container m-auto px-6 mt-12 p-10 flex flex-col md:h-screen justify-center">
   <div class="w-full">
     <h3 class="mx-2 text-left border-b-2 border-purple-300 text-gray-600 font-extrabold text-4xl xs:text-5xl md:text-6xl">
       Contact
