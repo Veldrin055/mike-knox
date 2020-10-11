@@ -1,4 +1,5 @@
-# mike-kay
+# Candiate page: Mike for Knox
+A responsive, mobile-first page for a candidate running for a local election, written in Vue
 
 ## Project setup
 ```
